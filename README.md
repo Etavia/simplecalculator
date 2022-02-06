@@ -8,13 +8,17 @@ Input calculation in format <number><space><operator><space><number> and press e
 Example input:
 
 1.2 + 4.6
+  
 5.8
   
 10 - 2
+  
 8.0
   
-* 4.8
++ 4.8
+  
 ERR
   
 4.8 / 0
+  
 ERR

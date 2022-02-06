@@ -14,11 +14,7 @@ Example input:
 10 - 2
   
 8.0
-  
-+ 4.8
-  
-ERR
-  
+
 4.8 / 0
   
 ERR
